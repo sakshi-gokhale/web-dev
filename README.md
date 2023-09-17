@@ -1,2 +1,5 @@
 # web-dev
-this the description
+this is the description
+
+# git clone cmd 
+git clone "http//...."
